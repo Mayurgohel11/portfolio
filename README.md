@@ -1,8 +1,13 @@
 #Personal details
-Name:		Mayur 	
+
+Name:		Mayur
+
 Availability: 	January 2025	
+
 Role:		Senior Data Architect / Engineer
+
 Residence: 	Ahmedabad, India
+
 Language:	English	
 
 #Profile

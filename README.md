@@ -1,10 +1,11 @@
-Personal details
+#Personal details
 Name:		Mayur 	
 Availability: 	January 2025	
 Role:		Senior Data Architect / Engineer
-Residence: 	Amsterdam
+Residence: 	Ahmedabad, India
 Language:	English	
-Profile
+
+#Profile
 Mayur is an energetic IT specialist with over 13 years of experience delivering excellent organizational performance, optimizing operations, and automating processes. Mayur has extensive experience with data architecture, design, and development of BI/ETL solutions. He possesses proven Data Architect, Data Engineering, and Modelling skills, as well as hands-on experience in establishing, interpreting, and simplifying data to enable high-growth operations with significant impact. He is skilled in facilitating all activities related to the design, development, implementation, migration, administration, and support of BI/ETL processes for large-scale data warehouses using Tableau/Power BI. Mayur also has experience with Azure, AWS, Python, SSAS, SSIS, MongoDB, PostgreSQL, MS SQL, MySQL, Oracle, and Cosmos DB.
 
 Skills

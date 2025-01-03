@@ -15,8 +15,8 @@ Mayur is an energetic IT specialist with over 13 years of experience delivering 
 
 Skills
  
-Databases
-MongoDB	★ ★ ★ ★ ★  
+**Databases**
+MongoDB	★ ★ ★ ★ ★ 
 PostgreSQL	★ ★ ★ ★ ★
 T-SQL	★ ★ ★ ★ ★
 MySQL	★ ★ ★ ★ ★
@@ -25,7 +25,7 @@ NoSQL 	★ ★ ★ ★ ★
 MS SQL	★ ★ ★ ★ ★
 Oracle	★ ★ ★ ★ ★
 
-CloudOps/DevOps
+**CloudOps/DevOps**
 Azure SQL	★ ★ ★ ★ ★
 CosmosDB	★ ★ ★ ★ ★
 Azure Synapse	★ ★ ★ ★ ★
@@ -43,7 +43,7 @@ Azure CI/CD	★ ★ ★ ★ ★
 Logic Apps	★ ★ ★ ★ ★
 Azure HDInsight	★ ★ ★ ★
 
-Software Development
+**Software Development**
 Python 	★ ★ ★ ★ ★
 Pandas	★ ★ ★ ★
 Numpy 	★ ★ ★ 
@@ -51,7 +51,7 @@ Scala	★ ★ ★
 PHP	★ ★ ★
 .NET	★ ★ ★
 
-Data Processes
+**Data Processes**
 Data Modelling	★ ★ ★ ★ ★
 SSAS	★ ★ ★ ★ ★
 Apache Kafka	★ ★ ★ 
@@ -80,7 +80,7 @@ Azure KeyVault    ★ ★ ★ ★ ★
 
 
 
-Certifications
+**Certifications**
 AWS Certified Database - Specialty (AWS DBS C01) – 2023
 
 Oracle8i – 2007 
@@ -88,7 +88,7 @@ Education
 Bachelor of Engineering in Information Technology  
 
 
-Specializations
+**Specializations**
 1.	Database Development: 5/5
 With Over 10 years of experience
 I worked on many databases platform like MSSQL, Oracle, MySQL, Postgres, and MongoDB. I have Designed and implemented scalable and efficient database solutions for diverse business applications. Developed large scale database to handle big applications which are utilized by multiregional and millions of people. Proven work on complex stored procedures, triggers, and queries to ensure optimal data retrieval and manipulation.
@@ -139,7 +139,7 @@ Developed and implemented a comprehensive data governance framework, defining po
 
 
 
-Employment History
+**Employment History**
 
 Employer: 	Wypoon Technologies B.V.
 Period:	Jan 2025 – Present

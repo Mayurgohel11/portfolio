@@ -15,7 +15,7 @@ Mayur is an energetic IT specialist with over 13 years of experience delivering 
 
 Skills
  
-**Databases**
+**Databases**\n
 MongoDB	★ ★ ★ ★ ★ 
 PostgreSQL	★ ★ ★ ★ ★
 T-SQL	★ ★ ★ ★ ★
